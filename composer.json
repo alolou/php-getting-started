@@ -11,4 +11,7 @@
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
   }
+  },     
+  "require('../vendor/autoload.php');
+  }
 }
